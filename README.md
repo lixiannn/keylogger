@@ -1,6 +1,6 @@
 # keylogger
 
-This is a simple keyloggerprogramme written in python. It logs user input into a log.txt file.
+This is a simple keylogger programme written in python. It logs user input into a log.txt file.
 
 Tutorial from: https://medium.com/analytics-vidhya/python-keylogger-tutorial-ef178d02f24a
 
